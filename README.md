@@ -17,7 +17,9 @@ nearly 16 folders with all the sql and xlsx file of inserted data.
 
 STUDENT DETAILS
 Group 9
-Disha Hirwani(341127)
-Dilip Baduwal N(341135)
+
+Disha Hirwani(341127), 
+Dilip Baduwal N(341135), 
 Janvi Joshi(341159)
+
 Presented to: Prof. Ashok K Harnal
